@@ -1,0 +1,30 @@
+D:\Programozás C#\magpro2beadandok\Szamologep\bin\Debug\Szamologep.exe.config
+D:\Programozás C#\magpro2beadandok\Szamologep\bin\Debug\Szamologep.exe
+D:\Programozás C#\magpro2beadandok\Szamologep\bin\Debug\Szamologep.pdb
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.csprojAssemblyReference.cache
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.cache
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.exe
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.pdb
+D:\Programozás C#\magpro2beadandok\Szamologep\obj\Debug\Szamologep.Calculator.resources
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.csprojAssemblyReference.cache
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.Calculator.resources
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.cache
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\acsro\OneDrive\Dokumentumok\Downloads\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\bin\Debug\Szamologep.exe.config
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\bin\Debug\Szamologep.exe
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\bin\Debug\Szamologep.pdb
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.csprojAssemblyReference.cache
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.Calculator.resources
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.Properties.Resources.resources
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.csproj.GenerateResource.cache
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.exe
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_zh3_f3_windows_form_calculator\src\obj\Debug\Szamologep.pdb
