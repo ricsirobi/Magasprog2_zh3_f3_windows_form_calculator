@@ -8,14 +8,14 @@
         private System.ComponentModel.IContainer components = null;
 
         
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
+        /// <param name="toDespose">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool toDespose)
         {
-            if (disposing && (components != null))
+            if (toDespose && (components != null))
             {
                 components.Dispose();
             }
-            base.Dispose(disposing);
+            base.Dispose(toDespose);
         }
 
         #region Windows Form Designer generated code
